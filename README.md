@@ -1,16 +1,17 @@
-## Hi there 👋
+Building something: UNIA
 
-<!--
-**PeteEks/PeteEks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Universal Intelligent Adapter
+I'm currently exploring the intersection of artificial intelligence, embedded systems and device automation through a personal R&D project called UNIA.
+The long-term vision is to make interaction with electronic devices more natural.
+Imagine being able to connect a device and describe what you want it to do using ordinary language — without needing to understand its underlying protocols or programming interfaces.
+UNIA is currently in its early development phase.
+The goal is ambitious. The journey starts with the fundamentals.
+More to come.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of interest:
+-Artificial Intelligence
+-Embedded Systems
+-Python
+-Device Discovery
+-Automation
+-Cyber-Physical Systems
